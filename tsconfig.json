@@ -1,0 +1,8 @@
+{
+  "exclude": ["node_modules", "build"],
+  "compilerOptions": {
+    "outDir": "./build",
+    "moduleDetection": "force",
+    "strict": true
+  }
+}
