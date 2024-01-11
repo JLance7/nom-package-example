@@ -29,5 +29,6 @@ npm test
 
 ## Deployment
 ```bash
-
+npm build
+npm publish
 ```
